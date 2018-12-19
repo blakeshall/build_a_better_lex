@@ -1,0 +1,14 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+title: Home
+---
+
+{% for post in site.posts %}
+  {% assign counter = forloop.index | modulo:3 %}
+  {% if counter == 1 %}<div class="row">{% endif %}
+    {% include card.html %}
+  {% if forloop.last or counter == 0 %}</div>{% endif %}
+{% endfor %}
