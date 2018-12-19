@@ -2,7 +2,7 @@
 layout: post
 title:  "Why are Lexington's roads so unsafe for pedestrians?"
 date:   2018-12-19 9:00:00 -0500
-categories: Lexington roads pedestrians
+categories:
 ---
 
 

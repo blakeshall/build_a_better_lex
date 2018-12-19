@@ -28,6 +28,10 @@ markdown: kramdown
 theme: 
 plugins:
 
+sass:
+  sass_dir: _sass
+  style: css
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

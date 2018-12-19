@@ -1,14 +1,23 @@
-<div class="row">
-  <div class="col-md-10">
-    <a href="{{ site.baseurl }}/index.html" class="navbar-brand text-dark">
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  <div class="container">
+    <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
       <i class="fas fa-city"></i>
       Build a Better Lexington
     </a>
-  </div>
-  <div class="col-md-2 my-auto text-right social-links">
-    <a href="https://www.twitter.com/buildabetterlex" class="text-dark"><i class="fab fa-twitter-square"></i></a>
-    <a href="https://www.fb.me/buildabetterlex" class="text-dark"><i class="fab fa-facebook-square"></i></a>
-  </div>
-</div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-{% include navbar.html %}
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl }}/about.html">About</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
