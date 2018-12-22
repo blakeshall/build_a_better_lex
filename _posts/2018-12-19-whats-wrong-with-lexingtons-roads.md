@@ -50,7 +50,7 @@ way to Ashland Ave, cross Richmond Rd, then walk 2275ft back south. That's over
 TRIPLE the distance I would have to walk if I just jaywalked. Is it any wonder
 that I see so many people jaywalking on a regular basis?
 
-![Richmond to Ashland]({{site.baseurl}}/assets/img/jaywalking-richmond.png)
+![Richmond to Ashland]({{site.baseurl}}/assets/img/jaywalking_richmond.png)
 
  <h4 class="post-sub-header p-2">Main to Midland</h4>
 
@@ -61,7 +61,7 @@ most basic pedestrian considerations. The problem lies with it's right turn
 lanes (and left from Vine to Main). They are what's called 'slip lanes' and you
 can see one of them in the Streetview below.
 
-![Main and Midland]({{site.baseurl}}/assets/img/main-and-midland.png)
+![Main and Midland]({{site.baseurl}}/assets/img/main_and_midland.png)
 
 Slip lanes are, according to Wikipedia, "a road traffic lane provided at an
 intersection to allow vehicles to turn at the intersection without actually
