@@ -2,13 +2,14 @@
 layout: post
 title:  "Why are Lexington's roads so unsafe for pedestrians?"
 date:   2018-12-19 9:00:00 -0500
-categories:
+tags: [ Lexington, roads, pedestrians ]
 ---
 
 
-2018 has been the deadliest year for Lexington pedestrians, since the city
+2018 has been the deadliest year for Lexington pedestrians since the city
 started tracking in 1996. 14 Lexingtonians have been killed by cars while
-walking. Unfortunately, the police and local news stations have approached this
+walking. Unfortunately, the [police](https://www.facebook.com/LexKyPolice/videos/632514183829893)
+and local news stations have approached this
 with the usual narrative: victim blaming. The city's own traffic data page that
 has a section specifically for Pedestrian fatalities lists "Dark clothing / not
 visible" as "collision factors" for 4 of the incidents, which, last I checked,
@@ -32,12 +33,12 @@ looking. Sometimes the driver is speeding. But most of the time the road and
 environment are designed in such a way that almost ensures that a collision
 will happen eventually, usually because it gives hardly any concern to
 pedestrians. Here are some anecdotal examples of poorly designed local streets
-that are terribly unsafe for pedestrians:
+that are either unsafe for pedestrians or encourage unsafe behaviors:
 
-### Walking Richmond Rd.
+<h4 class="post-sub-header p-2">Walking Richmond Rd.</h4>
 
 I live in Kenwick, on Richmond Ave, and one of the local amenities that we and
-our neighbors enjoy is Ashland, the Henry Clay estate, with its paths around its
+our neighbors enjoy is Ashland, the Henry Clay estate, with its 
 grounds that many use for walking and jogging. Now, according to Google, it's
 about 1100ft from the corner of Richmond Ave. and Richmond Rd to Ashland 
 (the estate). Problem is, there aren't any crosswalks across Richmond Rd 
@@ -51,7 +52,7 @@ that I see so many people jaywalking on a regular basis?
 
 ![Richmond to Ashland](/assets/img/jaywalking-richmond.png)
 
-### Main to Midland
+ <h4 class="post-sub-header p-2">Main to Midland</h4>
 
 The intersection of Main and Midland (and Vine) is often regarded as the
 beginning of downtown. Which makes its current state even more of a travesty.
@@ -80,7 +81,7 @@ consideration.
 The intersection also suffers from a problem that most of our downtown streets
 suffer from:
 
-### One way streets
+<h4 class="post-sub-header p-2">One way streets</h4>
 
 One way streets are terrible in numerous ways, but are particularly bad for
 pedestrians. One way, multi lane streets encourage speeding as Jeff Speck lists
@@ -97,18 +98,18 @@ opposite direction. I even had to slap the hood of one lady's car because she
 was rolling into the crosswalk to turn while looking the other way.
 
 
-### Don't jump to blame the pedestrian
+<h4 class="post-sub-header p-2">Don't jump to blame the pedestrian</h4>
 
 Any one of these issues can be brushed aside with a simple "Follow traffic
 laws". Pedestrians should cross at crosswalks, regardless of how inconvenient or
 incredibly out of the way they are. Drivers should yield to pedestrians, even in
 slip lanes, and drivers should always look both ways before turning out onto the
-street. The problem is that is trying to bend people to follow the environment
-rather than have the environment built around how people behave. People will
-want to cross the road more frequently than every 1000ft. Drivers will continue 
-to follow the flow of traffic even if a pedestrian is waiting to cross. Drivers
-will pay more attention to big metal boxes coming towards them than the one or
-two people slowly coming the other way.
+street. The problem with those simple responses is that they try to bend people
+to follow the environment rather than have the environment built around how
+people behave. People will want to cross the road more frequently than every
+1000ft. Drivers will continue to follow the flow of traffic even if a pedestrian
+is waiting to cross and drivers will pay more attention to big metal boxes
+coming towards them than the one or two people slowly coming the other way.
 
 So next time you see in the news that a pedestrian was hit by a car, before
 writing it off with a "They should have been in a crosswalk", take a moment and

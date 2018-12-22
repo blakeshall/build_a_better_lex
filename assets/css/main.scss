@@ -1,18 +1,44 @@
 ---
 ---
+// $primary: #068700;
+$primary: #078500;
+
+$theme-colors: (
+  "primary": $primary,
+);
+
+$bg-color-green: $primary;
+
+.bg-green{
+  background-color: $bg-color-green;
+}
 
 .post-card{
   display: inline-block;
   height: 16rem;
 }
 
+.post-sub-header{
+  background-color: $primary;
+  color: white;
+  width: 100%;
+}
+
+.post-content > p > img {
+  display: flex;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.post-content > p {
+  text-indent: 2rem;
+}
+
 html {
   position: relative;
   min-height: 100%;
 }
-body {
-  margin-bottom: 125px; /* Margin bottom by footer height */
-}
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -20,6 +46,12 @@ body {
   height: 120px; /* Set the fixed height of the footer here */
 }
 
+main {
+  margin-bottom: 130px;
+}
+
 .social-links {
   font-size: large;
 }
+
+@import 'bootstrap';

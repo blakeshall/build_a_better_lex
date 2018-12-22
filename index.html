@@ -6,6 +6,13 @@ layout: page
 title: Home
 ---
 
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h2 class="display-6">How to build a better Lexington</h2>
+    <p class="lead">Aiming for a Lexington that is safer, healthier, and more vibrant.</p>
+  </div>
+</div>
+
 {% for post in site.posts %}
   {% assign counter = forloop.index | modulo:3 %}
   {% if counter == 1 %}<div class="row">{% endif %}
