@@ -28,6 +28,7 @@ fb_username: buildabetterlex
 markdown: kramdown
 theme: 
 plugins:
+destination: ./docs
 
 sass:
   sass_dir: _sass
