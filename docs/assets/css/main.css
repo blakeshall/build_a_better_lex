@@ -2,11 +2,11 @@
 
 .post-card { display: inline-block; height: 16rem; }
 
-.post-sub-header { background-color: #078500; color: white; width: 100%; }
-
 .post-content > p > img { display: flex; max-width: 100%; margin: 0 auto; }
 
 .post-content > p { text-indent: 2rem; }
+
+.post-content > h4 { padding: .5rem; background-color: #078500; color: white; width: 100%; }
 
 html { position: relative; min-height: 100%; }
 

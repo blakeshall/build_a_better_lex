@@ -35,7 +35,7 @@ will happen eventually, usually because it gives hardly any concern to
 pedestrians. Here are some anecdotal examples of poorly designed local streets
 that are either unsafe for pedestrians or encourage unsafe behaviors:
 
-<h4 class="post-sub-header p-2">Walking Richmond Rd.</h4>
+#### Walking Richmond Rd
 
 I live in Kenwick, on Richmond Ave, and one of the local amenities that we and
 our neighbors enjoy is Ashland, the Henry Clay estate, with its 
@@ -52,7 +52,7 @@ that I see so many people jaywalking on a regular basis?
 
 ![Richmond to Ashland]({{site.baseurl}}/assets/img/jaywalking_richmond.png)
 
- <h4 class="post-sub-header p-2">Main to Midland</h4>
+#### Main and Midland
 
 The intersection of Main and Midland (and Vine) is often regarded as the
 beginning of downtown. Which makes its current state even more of a travesty.
@@ -81,7 +81,7 @@ consideration.
 The intersection also suffers from a problem that most of our downtown streets
 suffer from:
 
-<h4 class="post-sub-header p-2">One way streets</h4>
+#### One way streets
 
 One way streets are terrible in numerous ways, but are particularly bad for
 pedestrians. One way, multi lane streets encourage speeding as Jeff Speck lists
@@ -98,7 +98,7 @@ opposite direction. I even had to slap the hood of one lady's car because she
 was rolling into the crosswalk to turn while looking the other way.
 
 
-<h4 class="post-sub-header p-2">Don't jump to blame the pedestrian</h4>
+#### Don't jump to blame the pedestrian
 
 Any one of these issues can be brushed aside with a simple "Follow traffic
 laws". Pedestrians should cross at crosswalks, regardless of how inconvenient or

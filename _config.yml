@@ -29,6 +29,7 @@ markdown: kramdown
 theme: 
 plugins:
 destination: ./docs
+keep_files: ['CNAME']
 
 sass:
   sass_dir: _sass
