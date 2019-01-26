@@ -32,7 +32,7 @@ At first glance it seems rather innocuous, but let's use an example of an
 existing building on Walton, which is not zoned P-1 but right next to a strip of
 properties that is zoned P-1.
 
-![107 Walton]({{site.baseurl}}/assets/img/107Walton.png)
+![107 Walton]({{site.baseurl}}/assets/img/107walton.png)
 
 As it stands now, if you had a property zoned P-1, it would be essentially
 impossible to build this building if you wanted offices on the ground floor
@@ -56,7 +56,7 @@ elevator for a two story building with all of 2 apartments at most.
 So if a small building doesn't make financial sense, why not a big one? Let's
 look at some of the areas around downtown that are zoned P-1.
 
-![P-1 Downtown]({{site.baseurl}}/assets/img/P-1-downtown.png)
+![P-1 Downtown]({{site.baseurl}}/assets/img/p-1-downtown.png)
 
 You can see on Walton the strip of P-1 properties next to our earlier example.
 This is right between the Bell Court neighborhood and the Ashland/Mentelle
