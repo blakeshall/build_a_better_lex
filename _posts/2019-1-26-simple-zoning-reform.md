@@ -3,6 +3,9 @@ layout: post
 title:  "One simple zoning change that could have big impacts"
 tags: [ Lexington, development, zoning ]
 date:   2019-1-26 9:00:00 -0500
+description: "One thing I try to explain to people is how there can be little poison pills in
+our zoning ordinance that can hamper good incremental development and enforce 
+the dichotomy of single use buildings or massive multiuse buildings."
 ---
 
 One thing I try to explain to people is how there can be little poison pills in

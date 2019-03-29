@@ -3,6 +3,7 @@ layout: post
 title:  "Re-legalize Housing"
 tags: [ Lexington, development, zoning ]
 date:   2019-2-11 9:00:00 -0500
+description: "Lexington, like the rest of the country, is facing a housing crisis. One reason why is that we outlaw a lot of types of housing that we used to have."
 ---
 
 Lexington, like the rest of the country, is facing a housing crisis. Ours may

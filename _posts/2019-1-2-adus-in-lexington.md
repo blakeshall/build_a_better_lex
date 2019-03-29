@@ -2,6 +2,7 @@
 layout: post
 title:  "How ADUs can help Lexington"
 tags: [ Lexington, development, zoning ]
+description: "Some of the reasons why ADUs would be great for Lexington"
 ---
 
 There's another push for Lexington to re-legalize Accessory Dwelling Units

@@ -3,6 +3,8 @@ layout: post
 title:  "Why are Lexington's roads so unsafe for pedestrians?"
 date:   2018-12-19 9:00:00 -0500
 tags: [ Lexington, roads, pedestrians ]
+description: "2018 has been the deadliest year for Lexington pedestrians since the city
+started tracking in 1996. Let's look at some of the reasons why"
 ---
 
 

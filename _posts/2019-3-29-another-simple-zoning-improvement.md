@@ -3,6 +3,9 @@ layout: post
 title:  "Another simple zoning improvement for Lexington"
 date:   2019-3-29 9:00:00 -0500
 tags: [ Lexington, development, zoning ]
+description: "Lexington's zoning ordinance is filled with little details that prevents 
+incremental, mixed use development. One such detail is in the accessory uses
+for the B-1 zone."
 ---
 
 Lexington's zoning ordinance is filled with little details that prevents 
