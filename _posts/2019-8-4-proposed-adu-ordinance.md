@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First ADU Ordinance Draft"
-date: 2019-8-4 16:00:00 -0500
+date: 2019-8-4 9:00:00 -0500
 tags: [ Lexington, development, ADUs ]
 description: "Lexington's Planning staff have released their first proposed
 draft of an ADU ordinance, let's dive into it."
