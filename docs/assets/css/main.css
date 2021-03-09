@@ -16,6 +16,8 @@ main { margin-bottom: 130px; }
 
 .social-links { font-size: large; }
 
+.caption { color: gray; font-size: smaller; }
+
 /*!
  * Bootstrap v4.1.3 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
