@@ -3,9 +3,9 @@ layout: post
 title:  "Easy Ways We Can Make Lexington More Walkable"
 tags: [ Lexington, development, zoning ]
 date:   2022-1-24 8:00:00 -0500
-description: "In Build A Better Lex's first guest post,
-Jonathan Pezzi goes through all the reasons why we should
-want a Lexington that is more walkable."
+description: "In another guest post,
+Jonathan Pezzi goes over some easy changes that could
+be made to make Lexington more walkable."
 ---
 
 ![The Square]({{site.baseurl}}/assets/img/Pezzi/the-square.png)
