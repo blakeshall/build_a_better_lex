@@ -7,7 +7,7 @@ description: "Well the city finally updated the Walton Avenue midblock crossing.
 unsurprisingly disappointing."
 ---
 
-![Image showing the new crosswalk]({{site.baseurl}}/assets/img/new_walton_crossing/IMG_3709.jpg)
+![Image showing the new crosswalk]({{site.baseurl}}/assets/img/new_walton_crossing/new_crosswalk.jpg)
 
 
 So the crosswalk on Walton Avenue, the crosswalk which has been a chip on my shoulder ever since
